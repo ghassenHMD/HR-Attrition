@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+requests
+scikit-learn
+xgboost
+kagglehub

@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+pandas==3.0.6
+numpy==2.5.4
+scikit-learn==1.9.1
+xgboost==3.4.1
+joblib==1.6.0
+lime==0.2.0.1
+shap==0.53.0
+
+
+
+
