@@ -8,3 +8,10 @@ scikit-learn
 xgboost
 kagglehub
 pyarrow
+fastapi
+uvicorn[standard]
+joblib
+lime
+shap
+
+
